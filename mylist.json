@@ -1,5 +1,5 @@
 { 
-  "u1":{ "user":"John", "age":22, "country":"United States" },
+  "u1":{ "user":"John", "age":22, "country":"United States", "video":"test.mp4" },
   "u2":{ "user":"Will", "age":27, "country":"United Kingdom" },
   "u3":{ "user":"Abiel", "age":19, "country":"Mexico" }, 
   "u4":{ "user":"Rick", "age":34, "country":"Panama" },
